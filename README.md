@@ -9,11 +9,13 @@ pip install pyautogui rich colorama pyfiglet
 Follow these steps to start using the tool:
 
 Clone the project:
-
-git clone [https://github.com/lzvnwest/msg-spammer.git](https://github.com/lzvnwest/msg-spammer.git)
+git clone https://github.com/lzvnwest/msg-spammer.git
 
 Enter the folder:
 cd msg-spammer
+
+Install requirements:
+pip install -r requirements.txt
 
 Run the tool:
 python msg-spammer.py
