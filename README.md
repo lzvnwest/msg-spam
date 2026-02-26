@@ -1,26 +1,34 @@
 # msg-spam 🚀
-A universal message automation tool created by **lz**.
 
-## 📋 Installation
-First, make sure you have Python installed. Then, install the required libraries:
-```bash
-pip install pyautogui rich colorama pyfiglet
-🚀 How to use
-Follow these steps to start using the tool:
+A powerful, customizable, and universal message automation tool created by **lz**. Works on WhatsApp, Discord, Telegram, and more!
 
-Clone the project:
-git clone https://github.com/lzvnwest/msg-spammer.git
+---
 
-Enter the folder:
+## 📋 Features
+* **User-Typed Message:** Manually input custom messages.
+* **Message with Counting:** Automatically adds numbers to your messages.
+* **Random Message Generator:** Sends random words from a 10,000-word list.
+* **Meaningless Message Generator:** Sends random strings of characters.
+
+---
+
+## 🚀 Installation & Usage
+
+Follow these steps to get the tool running on your system:
+
+1. Clone the Repository:
+git clone [https://github.com/lzvnwest/msg-spammer.git](https://github.com/lzvnwest/msg-spammer.git)
+
+2. Move to the Project Directory:
 cd msg-spammer
 
-Install requirements:
+3. Install Requirements:
 pip install -r requirements.txt
 
-Run the tool:
+4. Run the Tool:
 python msg-spammer.py
 
-Start spamming: Choose an option in the menu, click on your target's message box within 10 seconds, and let the tool do the work!
+⚠️ Important Disclaimer
+This tool is for educational purposes only. The author (lz) is not responsible for any misuse, banned accounts, or damage caused by this script. Use it responsibly!
 
-⚠️ Disclaimer
-Use this tool for educational purposes only. The author is not responsible for any misuse or banned accounts.
+Created with ❤️ by lz
