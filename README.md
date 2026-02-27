@@ -20,7 +20,7 @@ Follow these steps to get the tool running on your system:
 git clone [https://github.com/lzvnwest/msg-spammer.git](https://github.com/lzvnwest/msg-spammer.git)
 
 2. Move to the Project Directory:
-cd msg-spammer
+cd msg-spam
 
 3. Install Requirements:
 pip install -r requirements.txt
